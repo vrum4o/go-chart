@@ -1,3 +1,5 @@
+# This is a copy of https://github.com/wcharczuk/go-chart with some fixes
+
 go-chart
 ========
 [![CircleCI](https://circleci.com/gh/wcharczuk/go-chart.svg?style=svg)](https://circleci.com/gh/wcharczuk/go-chart) [![Go Report Card](https://goreportcard.com/badge/github.com/wcharczuk/go-chart)](https://goreportcard.com/report/github.com/wcharczuk/go-chart)
